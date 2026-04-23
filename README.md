@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @biswasworup
-- 👀 I’m interested in lolgic extraction and debugging.
-- 🌱 I’m currently learning at ITER BBSR.
-- 💞️ I’m looking to collaborate on java code writing.
-- 📫 How to reach me (biswasworup1234@gmail.com)
-- 😄 Pronouns: nerd
-- ⚡ Fun fact: you are using a common password for most of the sites.
+# Hi, I'm Biswasworup 👋
+
+🎓 B.Tech CSE @ ITER SOA University (CGPA: 9.32)
+💻 Aspiring Software Development Engineer
+
+---
+
+## 🚀 Skills
+
+* Java, Python, C, CPP
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS, Computer Networking, OS Design, Compilers
+ 
+---
+
+## 📊 DSA Practice
+
+* Solving problems on LeetCode
+* Focus on Arrays, Strings, Trees, and Graphs
+* Improving problem-solving and optimization skills
+
+---
+
+## 📌 Current Focus
+
+* Preparing for SDE roles
+* Building scalable backend projects
+* Strengthening core CS fundamentals
+
+---
+
+## 📫 Contact
+
+* Email: biswasworup1234@gmail.com
+
 
 <!---
 biswasworup/biswasworup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
